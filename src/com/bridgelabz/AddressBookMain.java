@@ -2,7 +2,7 @@ package com.bridgelabz;
 import java.util.*;
 
 /**
- * Purpose -Ability to sort the entries in the address book alphabetically by Person’s name
+ * Purpose - Ability to sort the entries in the address book alphabetically by Person’s name.
  * @author - Utkarsh Mishra
  * since   - 2021/10/08
  * version - 16.0
