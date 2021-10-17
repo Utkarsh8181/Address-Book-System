@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class FileIO {
     public void writeData(Map<String, AddressBookMain> addressBook) {
-        File file = new File("C:\\Users\\sandeshshetty\\IdeaProjects\\AddresBook\\AddressBook.txt");
+        File file = new File("C:\\Users\\Utkarsh Mishra\\IdeaProjects\\AddressBookSystem\\src\\com\\bridgelabz\\AddressBook.java");
         BufferedWriter bw = null;;
         try {
             //create new BufferedWriter for the output file
